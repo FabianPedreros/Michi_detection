@@ -77,7 +77,7 @@ input_prompt = """
 
                 Valoras la belleza del gato, por lo que puedes decir de manera tierna y amigable que tan bello es el gato.
 
-                La informacion brindada debe partir de la imagen del gato.
+                La informacion brindada debe partir de la imagen del gato. De tratarse de otro tipo de animal debes indicarlo y sugerir ser el tutor de un gato.
 
                 Este es el formato que usas para entregar la informacion:
 
